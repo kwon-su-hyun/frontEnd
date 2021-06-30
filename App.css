@@ -1,0 +1,5 @@
+@charset 'uft-8';
+
+h1{text-align: center;}
+button{position: relative; left: 50%; transform: translateX(-50%);}
+h2{text-align: center;}
